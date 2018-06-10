@@ -1,0 +1,66 @@
+﻿
+@using ToChange.Models
+
+<link href="~/Content/font-awesome.css" rel="stylesheet" />
+<script src="~/Scripts/2ChangeScripts/popupScript.js"></script>
+
+<div id="sidebar" class="sidebar-offcanvas">
+    <div class="col-md-12">
+        <ul class="nav nav-pills nav-stacked">
+
+            <li class="nav-divider"></li>
+            <li class=""><a href="~/Home/NavigateToHomeAction">Home<i class="fa fa-home fa-fw pull-right"></i></a></li>
+
+            @if (websiteSettings.hasLoggedIn && websiteSettings.UserInSystem.IsAdmin)
+            {
+                <li class="nav-divider"></li>
+                <li><a href="~/Admin/Customers">Customers<i class="fa fa-users fa-fw pull-right"></i></a></li>
+                <li>
+                    <a href="#" onclick="OpenCustomerPopup(@websiteSettings.ADD_NEW_CUSTOMER , @websiteSettings.NONE)">Register Customer<i class="fa fa-user-plus fa-fw pull-right"></i></a>
+                </li>
+            }
+            <li class="nav-divider"></li>
+            <li><a href="~/Product/Products">Products<i class="fa fa-film fa-fw pull-right"></i></a></li>
+
+            @if (websiteSettings.hasLoggedIn && !websiteSettings.UserInSystem.IsAdmin)
+            {
+                <li><a href="~/Product/MyProducts">My Products<i class="fa fa-film fa-fw pull-right"></i></a></li>
+                <li><a href="#" onclick="OpenPopup(@websiteSettings.ADD_NEW_PRODUCT , @websiteSettings.NONE)">Add Product<i class="fa fa-cart-plus fa-fw pull-right"></i></a></li>
+            }
+
+            @if (websiteSettings.hasLoggedIn)
+            {
+                <li class="nav-divider"></li>
+                <li>
+                    <a href="~/Home/NavigateToHistoryAction">
+                        Exchange history<i class="fa fa-leanpub fa-fw pull-right"></i>
+                    </a>
+                </li>
+            }
+            <li class="nav-divider"></li>
+            @if (!websiteSettings.hasLoggedIn)
+            {
+            <li>
+                <a href="~/Authentication/LogIn">
+                    Login<i class="fa fa-sign-in fa-fw pull-right"></i>
+                </a>
+            </li>
+                <li>
+                    <a href="~/Authentication/Register">
+                        Register<i class="fa fa-user-plus fa-fw pull-right"></i>
+                    </a>
+                </li>
+            }
+            @if (websiteSettings.hasLoggedIn)
+            {
+                <li>
+                    <a href="~/Authentication/Logout">
+                        Logout<i class="fa fa-sign-out fa-fw pull-right"></i>
+                    </a>
+                </li>
+                <li class="nav-divider"></li>
+
+            }
+        </ul>
+    </div>
+</div>

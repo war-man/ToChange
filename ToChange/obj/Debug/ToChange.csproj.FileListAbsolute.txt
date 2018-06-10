@@ -1,0 +1,208 @@
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\ApplicationInsights.config
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\roslyn\csc.exe
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\roslyn\vbc.exe
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\ToChange.dll.config
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\ToChange.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\ToChange.pdb
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Antlr3.Runtime.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\EntityFramework.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\EntityFramework.SqlServer.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Microsoft.AI.Web.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Newtonsoft.Json.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\PagedList.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\PagedList.Mvc.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\System.Web.Helpers.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\System.Web.Mvc.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\System.Web.Optimization.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\System.Web.Razor.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\System.Web.WebPages.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\WebGrease.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\EntityFramework.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\EntityFramework.SqlServer.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Microsoft.AI.Web.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\PagedList.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\PagedList.Mvc.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\System.Web.Helpers.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\System.Web.Mvc.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\System.Web.Optimization.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\System.Web.Razor.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\System.Web.WebPages.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Antlr3.Runtime.pdb
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\bin\Newtonsoft.Json.xml
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\obj\Debug\ToChange.dll
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\obj\Debug\ToChange.pdb
+C:\Users\Yosef\GitHub\ToChangeRepo\ToChange\ToChange\obj\Debug\ToChange.csprojResolveAssemblyReference.cache
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\ApplicationInsights.config
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\roslyn\csc.exe
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\roslyn\vbc.exe
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\roslyn\VBCSCompiler.exe
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\ToChange.dll.config
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\ToChange.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\ToChange.pdb
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Antlr3.Runtime.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\EntityFramework.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\EntityFramework.SqlServer.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.AI.Web.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.Azure.NotificationHubs.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.Owin.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.Owin.Security.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Newtonsoft.Json.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Owin.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\PagedList.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\PagedList.Mvc.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\System.Web.Helpers.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\System.Web.Mvc.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\System.Web.Optimization.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\System.Web.Razor.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\System.Web.WebPages.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\System.Web.WebPages.Razor.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\WebGrease.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\EntityFramework.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\EntityFramework.SqlServer.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.AI.Web.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.Azure.NotificationHubs.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.Owin.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Microsoft.Owin.Security.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Newtonsoft.Json.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\PagedList.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\PagedList.Mvc.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\System.Web.Helpers.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\System.Web.Mvc.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\System.Web.Optimization.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\System.Web.Razor.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\System.Web.WebPages.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\System.Web.WebPages.Razor.xml
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\bin\Antlr3.Runtime.pdb
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\obj\Debug\ToChange.dll
+C:\Users\AshrafMa\GitHub\ToChange-WebSite\ToChange\obj\Debug\ToChange.pdb
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\ApplicationInsights.config
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\roslyn\csc.exe
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\roslyn\vbc.exe
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\ToChange.dll.config
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\ToChange.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\ToChange.pdb
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Antlr3.Runtime.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\EntityFramework.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\EntityFramework.SqlServer.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.AI.Web.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.Azure.NotificationHubs.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.Owin.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.Owin.Security.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Newtonsoft.Json.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Owin.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\PagedList.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\PagedList.Mvc.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\System.Web.Helpers.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\System.Web.Mvc.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\System.Web.Optimization.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\System.Web.Razor.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\System.Web.WebPages.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\WebGrease.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\EntityFramework.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\EntityFramework.SqlServer.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.AI.Web.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.Azure.NotificationHubs.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.Owin.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Microsoft.Owin.Security.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Newtonsoft.Json.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\PagedList.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\PagedList.Mvc.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\System.Web.Helpers.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\System.Web.Mvc.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\System.Web.Optimization.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\System.Web.Razor.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\System.Web.WebPages.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\bin\Antlr3.Runtime.pdb
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\obj\Debug\ToChange.csprojResolveAssemblyReference.cache
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\obj\Debug\ToChange.dll
+C:\Users\Ashraf\Desktop\New folder\ToChange-WebSite\ToChange-WebSite\ToChange\obj\Debug\ToChange.pdb

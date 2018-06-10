@@ -1,0 +1,206 @@
+﻿@using ToChange.Models
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" Content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+
+    @**This Style is to Design The Website*@
+    <link href="~/Content/2ChangeStyle/SpecificStyle.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    @section Scripts{
+
+      
+     
+
+    }
+
+    @*JS Files*@
+    <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+    @* This script has the settings of the popup and it's functions.**@
+    <script src="~/Scripts/2ChangeScripts/popupScript.js"></script>
+    @*SignalR Js*@
+    <script src="~/Scripts/jquery.signalR-2.2.2.min.js"></script>
+    <script src="~/signalr/hubs"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.4.0/bootbox.min.js"></script>
+
+
+    @*Notification Secion JS*@
+    <script>
+            $(document).ready(function () {
+                //Click On Notification Icon
+                $('span.noti').click(function (e) {
+                    e.stopPropagation();
+                    $('span.NotiCount').hide();
+                    $('.noti-content').show();
+                    var count = 0;
+                    count = parseInt($('span.NotiCount').html()) || 0;
+                    count++;
+                    if (count > 0) {
+                        updateNotification();
+                    }
+                    $('span.NotiCount', this).html(' ');
+                })
+
+                //hide notification
+                $('html').click(function () {
+                    $('.noti-content').hide();
+                })
+
+                //update notification
+                function updateNotification() {
+                    $('#notiContent').empty();
+                    $('#notiContent').append($('<li>Loading...</li>'))
+
+                    
+                    $.ajax({
+                        type: 'GET',
+                        url: '/User/GetNotification',
+                        success: function (response) {
+                            debugger;
+                            $('#notiContent').empty();
+                            $('#notiContent').css("font-size", "12px");
+
+                            if (response.length == 0) {
+                                $('#notiContent').append($('<li>There is no Notifications</li>'));
+                            }
+                            $.each(response, function (index, value) {
+                                $('#notiContent').append($('<li>' + value[0] + ' ' + value[1] +  '<br/>' + value[2] + '<br/> Request Sent At: ' + value[3] +
+                                    '<br/><a href="' + value[4] + '" class="pull-right">click for more...</a><br/>' + '</li>'));
+                            })
+                        }, error: function (error) {
+                            console.log(error);
+                        }
+
+                    })
+                }
+
+                //update notification count
+                function updateNotificationCount() {
+                    $('span.NotiCount').show();
+                    var count = 0;
+                    count = parseInt($('span.NotiCount').html) || 0;
+                    count++;
+                    $('span.noti').css("color", "white");
+                    $('span.NotiCount').css({ "background-color": "red", "color": "white" });
+                    $('span.NotiCount').html(count);
+                }
+
+                //signalR js code for start hub
+                var notificationHub = $.connection.NofiticationHub;
+                $.connection.hub.start().done(function () {
+                    console.log('Notification Starts');
+                });
+
+                notificationHub.client.notify = function (message) {
+                    if (message && message.toLowerCase() == "added") {
+                        updateNotificationCount();
+                    }
+                }
+
+
+            })
+
+    </script>
+
+
+</head>
+
+<body>
+
+    <div class="col-sm-2">
+        <br />
+
+        @{Html.RenderAction("LoadSideBarMenu", "Home");}
+
+    </div>
+
+    @*Top Bar*@
+    <div class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <nav class="navClass">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <!-- Left Side Bar-->
+                    <ul class="nav navbar-nav navbar-left">
+
+                        <li><a id="Websitetitle" style="color:#4ea0ff;" href="~/Home/NavigateToHomeAction">Exchange</a></li>
+                    </ul>
+                    <!-- Right Side Bar-->
+                    <ul class="nav navbar-nav navbar-right">
+                        @if (websiteSettings.hasLoggedIn)
+                        {
+
+                            <li>
+                                <label id="Name" href="#" style="color:#4ea0ff;">
+                                    @websiteSettings.CurrentUser.FirstName <i class="fa fa-user"></i>
+                                </label>
+                            </li>
+
+                            if (!websiteSettings.UserInSystem.IsAdmin)
+                            {
+
+                                <li>
+                                    <a href="#">
+                                        <span class="noti glyphicon glyphicon-globe" style="color:#4ea0ff;"><span class="NotiCount">&nbsp;</span></span>
+                                    </a>
+                                    <div class="noti-content">
+                                        <div class="noti-top-arrow"></div>
+                                        <ul id="notiContent"></ul>
+                                    </div>
+                                </li>
+                            }
+                        }
+                    </ul>
+
+
+
+                </div>
+            </nav>
+
+        </div>
+    </div>
+
+    @**This Section is present the HTML Code OF Popup Window*@
+    <div class="modal fade" id="myModal" style="margin-right:30%; padding-right:350px;">
+        <div class="modal-dialog">
+            <div class="modal-Content">
+                <div class="modal-body" id="myModalBody">
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Set the View Dimensions-->
+    <div class="col-md-9">
+        <div class="container body-Content">
+            @RenderBody()
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+
+</html>

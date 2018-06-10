@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer Content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram Content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="dc7a812ac060461dacf083c5d07f2077" Name="Diagram1" />
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
